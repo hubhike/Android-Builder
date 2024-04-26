@@ -3,14 +3,14 @@
     "kernelSource": {
       "name": "oneplus6t",
       "repo": "https://github.com/LineageOS/android_kernel_oneplus_sdm845",
-      "branch": "lineage-21",
+      "branch": "lineage-20",
       "device": "fajita",
       "defconfig": "sdm845_defconfig"
     },
     "toolchains": [
       {
         "repo": "https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3",
-        "branch": "lineage-21.0",
+        "branch": "lineage-20.0",
         "name": "aarch64",
         "binaryEnv": [
           "bin"
